@@ -13,7 +13,7 @@ and evaluates order-p divergence softenings (D_p) to confirm candidate misspecif
 xp_lands.ipynb   -- main notebook (fits, sandwich bounds, order-p divergence)
 src/
   cases.py       -- tractable 1D test cases with known exact posteriors g*_max
-  families.py    -- candidate possibility families (Gaussian, Laplace, Beta, asymmetric Gaussian)
+  families.py    -- candidate possibility families (Gaussian, Laplace, Beta)
   cbo.py         -- LCBO, UCBO, D_max, and the sandwich bound check
 results/         -- summary_metrics.csv (cross-case LCBO/UCBO/D_max table)
 figs/            -- fig_laplace_posterior_logscale.png (the only figure used in report.tex)

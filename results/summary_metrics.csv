@@ -2,8 +2,6 @@ case,family,log_z_max,lcbo,ucbo,d_max_lower,d_max_upper
 bernoulli_beta,GaussianPoss,-15.1582,-152.4862,-15.1556,137.328,0.0026
 bernoulli_beta,BetaPoss,-15.1582,-15.1582,-15.1582,0.0,0.0
 gaussian_known_var,GaussianPoss,-0.1961,-0.7632,0.302,0.5671,0.498
-gaussian_known_var,AsymGaussianPoss,-0.1961,-0.7634,0.3019,0.5674,0.4979
 laplace_likelihood,GaussianPoss,-17.0948,-17.4412,632.9875,0.3464,650.0823
 laplace_likelihood,LaplacePoss,-17.0948,-110.9888,-16.6765,93.8941,0.4183
 bimodal,GaussianPoss,-9.4045,-43.4301,6.3974,34.0256,15.8019
-bimodal,AsymGaussianPoss,-9.4045,-9.9466,200.3333,0.5421,209.7378
